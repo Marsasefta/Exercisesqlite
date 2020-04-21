@@ -26,9 +26,9 @@ public class DisplayMhs extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_tambah_data);
-        al = (EditText) findViewById(R.id.edittextalmt);
+        al = (EditText) findViewById(R.id.editTextalmt);
         nama = (EditText) findViewById(R.id.editTextName);
-        phone = (EditText) findViewById(R.id.editTextPhone);
+        phone = (EditText) findViewById(R.id.editTextelp);
         email = (EditText) findViewById(R.id.editTextmail);
 
         mydb = new DBHelper(this);

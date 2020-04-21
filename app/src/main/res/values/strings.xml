@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exercisesqlite</string>
+    <string name="dk">Daftar Kontak</string>
+    <string name="tb">Tambah Data</string>
+    <string name="nm">Nama</string>
+    <string name="telp">No Telp</string>
+    <string name="email">Email</string>
+    <string name="al">Alamat</string>
+    <string name="save">simpan</string>
+    <string name="edit">Edit mahasiswa</string>
+    <string name="delete">Hapus Mahasiswa</string>
+
+</resources>
